@@ -53,11 +53,9 @@
  
 ---
 
-## 📊 GitHub Stats
-
+## Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vcnk4v&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcnk4v&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=vcnk4v&theme=github-dark&hide_border=true" />
 </p>
 
 ---
