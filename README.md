@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>B.Tech + Hons CSE @ IIIT Hyderabad · Undergraduate Researcher @ SERC</b><br/>
-  <i>Building systems that are fast, reliable, and a little bit clever.</i>
 </p>
 
 <p align="center">
